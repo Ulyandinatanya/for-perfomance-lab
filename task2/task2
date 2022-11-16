@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 import math
  
 print("Введите координаты точки и радиус круга")
@@ -18,8 +12,6 @@ if hypotenuse <= r_circle:
 else:
     print("точка снаружи")
 
-
-# In[ ]:
 
 
 
